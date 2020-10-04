@@ -10,6 +10,8 @@ our @ISA = qw(WordList);
 
 # STATS
 
+our @TAGS = qw(name cpan);
+
 1;
 # ABSTRACT: CPAN PAUSE ID's
 
